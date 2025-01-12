@@ -1,0 +1,45 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+*.obj
+*.exe
+*.dll
+*.pdb
+*.idb
+*.ilk
+*.lib
+*.log
+*.csv
+*.tmp
+*.tmp_proj
+*.tlog
+*.lastbuildstate
+*.cache
+*.csproj.user
+*.vcxproj.user
+*.filters
+
+# Visual Studio Code
+.vscode/
+
+# Packages
+packages/
+*.nupkg
+
+# Visual Studio database files
+*.VC.db
+*.VC.opendb
